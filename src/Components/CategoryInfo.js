@@ -10,7 +10,7 @@ const CategoryInfo = ({country,category}) => {
            <img src={flagUrl} alt="" style={{width:"45px",lineHeight:"20px"}} className="flag"/>
         </span>
      }</h2> */}
-     <h5 className="categoryinfo" style={{marginTop:"20px",textAlign:"center"}}>NEWSAPP MADE BY - JAYESH BHAVSAR 😎</h5>
+     <h5 className="categoryinfo" style={{marginTop:"20px",textAlign:"center"}}></h5>
      </>
   )
 }
